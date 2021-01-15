@@ -1,0 +1,8 @@
+{
+  "name": "teste-npm-joao-rezende",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JoaoRabelo98/teste-npm-joao-rezende.git",
+  "author": "joao.rezende <joaorabello99@gmail.com>",
+  "license": "MIT"
+}
